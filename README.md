@@ -1,1 +1,1 @@
-这是SSM框架整合后纯净版框架
+基于SSM框架的sharding-jdbc实践
